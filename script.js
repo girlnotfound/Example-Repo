@@ -5,7 +5,7 @@ function greetUser() {
   greetUser();
 
   function sayHello() {
-    alert("Hello!");
+    alert("Hi!");
   }
   
   sayHello();
