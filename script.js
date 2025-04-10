@@ -3,3 +3,9 @@ function greetUser() {
   }
   
   greetUser();
+
+  function sayHello() {
+    alert("Hello!");
+  }
+  
+  sayHello();
